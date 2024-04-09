@@ -4,31 +4,22 @@ This is the repository for the university web development course. It will contai
 
 # Student information
 
-| Name   | Maksym Horbatyi |
+| Name   |  Maksym Horbatyi  |
 | ------ | :---------------: |
 | Group  |       KI-48       |
 | Number |         8         |
-| Task   |   Create personal website    |
+| Task   |   Deploy the website to a hosting service    |
 
 # Technologies
 
-According to the task, I will use HTML, CSS, JavaScript, PHP, and MySQL.
+For this task, I will use the free hosting service [000webhost](https://www.000webhost.com/).
 
 # Task details
 
-The purpose of the laboratory work #2 is to create a personal website using the recommended technologies.
+The purpose of the laboratory work #3 is to deploy the website to a hosting service.
 
 # How to run the project
 
-For now, you can simply download this repository and run it locally using XAMPP. You need to place the downloaded folder inside _htdocs_ directory in your XAMPP folder. Then launch the XAMPP local server and you're good to go!
+You can access the deployed website using this [link](https://webki48horbatyi.000webhostapp.com/).
 =======
 This is the repository for the university web development course. It will contain 5 laboratory projects which are accessible through branches.
-
-# Student information
-|Name  |   Maksym Horbatyi |
-| ------------- |:-------------:|
-| Group     | KI-48     |
-| Number      | 8    |
-
-# Technologies
-According to the task, I will use HTML, CSS, JavaScript, PHP, and MySQL.
